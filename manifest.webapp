@@ -1,0 +1,21 @@
+{
+  "version": "0.1",
+  "name": "Tutorial Example",
+  "description": "Fork and edit this to build your own Open Web App",
+  "launch_path": "index.html",
+  "icons": {
+    "16": "img/icons/mortar-16.png",
+    "48": "img/icons/mortar-48.png",
+    "128": "img/icons/mortar-128.png"
+  },
+  "developer": {
+    "name": "Your Name Here",
+    "url": "http://github.com/your-github-id"
+  },
+  "default_locale": "en",
+  "activities": {
+    "openmrs": {
+      "href": "*"
+    }
+  }
+}

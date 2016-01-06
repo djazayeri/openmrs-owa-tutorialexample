@@ -1,0 +1,24 @@
+{
+  "name": "openmrs-owa-tutorialexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-zip": "^3.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Example",
+    "OpenMRS",
+    "Open",
+    "Web",
+    "App"
+  ],
+  "author": "your name here",
+  "license": "MPLv2"
+}
